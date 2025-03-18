@@ -1,0 +1,4 @@
+streamlit==1.31.1  # Known compatible version
+numpy==1.26.4       # Tested compatible version
+pandas==2.2.1      # Tested compatible version
+scikit-learn==1.4.1 # Tested compatible version
